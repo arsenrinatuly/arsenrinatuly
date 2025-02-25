@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi there! 👋<br><br>I'm a budding web developer with a passion for building dynamic and user-friendly websites.<br><br>Technologies I work with:<br><br>    HTML & CSS – Crafting responsive and accessible web designs<br>    Python – Writing clean and efficient code<br>    Flask – Developing lightweight and scalable web applications<br>    Aiogram – Creating powerful and flexible Telegram bots<br><br>I’m constantly learning and looking to collaborate on exciting projects. Let's build something amazing together!
 
 

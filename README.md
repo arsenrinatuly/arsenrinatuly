@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/montage.gif" width="100%" alt="Black-and-white visual montage" />
+</p>
 
-<!--
-**arsenrinatuly/arsenrinatuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Arsen Rinatuly</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Python and Django developer building clear APIs and practical web products.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>Backend</strong>&nbsp;&nbsp; Python · Django · REST API · PostgreSQL<br />
+  <strong>Foundations</strong>&nbsp;&nbsp; HTML · CSS · JavaScript
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/drive.gif" width="440" alt="Black BMW driving through a mountain road" />
+</p>
+
+<h2 align="center">Contributions</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsenrinatuly/arsenrinatuly/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsenrinatuly/arsenrinatuly/output/github-snake.svg" />
+  <img width="100%" alt="Contribution graph animated as a monochrome snake" src="https://raw.githubusercontent.com/arsenrinatuly/arsenrinatuly/output/github-snake.svg" />
+</picture>

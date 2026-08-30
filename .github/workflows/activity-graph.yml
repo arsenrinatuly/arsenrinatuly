@@ -1,0 +1,48 @@
+name: Update activity graph
+
+on:
+  schedule:
+    - cron: "23 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/activity-graph.yml"
+      - "scripts/generate_activity_graph.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate monochrome activity graphs
+        shell: bash
+        run: >-
+          python scripts/generate_activity_graph.py
+          --username "$GITHUB_REPOSITORY_OWNER"
+          --output-dir "$RUNNER_TEMP/activity-graph"
+
+      - name: Publish graphs to activity branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch --orphan activity-output
+          git rm -rf . >/dev/null 2>&1 || true
+          cp "$RUNNER_TEMP/activity-graph/activity-graph.svg" .
+          cp "$RUNNER_TEMP/activity-graph/activity-graph-dark.svg" .
+          git add activity-graph.svg activity-graph-dark.svg
+          git commit -m "Update activity graph"
+          git push --force origin HEAD:activity

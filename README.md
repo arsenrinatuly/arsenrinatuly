@@ -35,7 +35,7 @@
 <h2 align="center">Activity</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=arsenrinatuly&amp;bg_color=0d1117&amp;color=8b949e&amp;line=f0f6fc&amp;point=ffffff&amp;area=true&amp;area_color=6e7681&amp;hide_border=true&amp;hide_title=true&amp;radius=0&amp;height=220&amp;days=31" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=arsenrinatuly&amp;bg_color=ffffff&amp;color=57606a&amp;line=1f2328&amp;point=000000&amp;area=true&amp;area_color=d0d7de&amp;hide_border=true&amp;hide_title=true&amp;radius=0&amp;height=220&amp;days=31" />
-  <img width="100%" alt="GitHub activity graph for Arsen Rinatuly" src="https://github-readme-activity-graph.vercel.app/graph?username=arsenrinatuly&amp;bg_color=ffffff&amp;color=57606a&amp;line=1f2328&amp;point=000000&amp;area=true&amp;area_color=d0d7de&amp;hide_border=true&amp;hide_title=true&amp;radius=0&amp;height=220&amp;days=31" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsenrinatuly/arsenrinatuly/activity/activity-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsenrinatuly/arsenrinatuly/activity/activity-graph.svg" />
+  <img width="100%" alt="GitHub activity graph for Arsen Rinatuly" src="https://raw.githubusercontent.com/arsenrinatuly/arsenrinatuly/activity/activity-graph.svg" />
 </picture>

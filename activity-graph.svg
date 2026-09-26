@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 1200 220" width="1200" height="220">
+  <title>GitHub activity for arsenrinatuly — last 31 days</title>
+  <desc>Daily public contribution counts rendered as a monochrome line graph.</desc>
+  <rect width="1200" height="220" fill="#ffffff" />
+  <g fill="none" stroke="#d0d7de" stroke-width="1">
+    <line x1="54" y1="182.00" x2="1176" y2="182.00" />
+    <line x1="54" y1="100.00" x2="1176" y2="100.00" />
+    <line x1="54" y1="18.00" x2="1176" y2="18.00" />
+    <line x1="54.00" y1="18" x2="54.00" y2="182" opacity="0.45" />
+    <line x1="241.00" y1="18" x2="241.00" y2="182" opacity="0.45" />
+    <line x1="428.00" y1="18" x2="428.00" y2="182" opacity="0.45" />
+    <line x1="615.00" y1="18" x2="615.00" y2="182" opacity="0.45" />
+    <line x1="802.00" y1="18" x2="802.00" y2="182" opacity="0.45" />
+    <line x1="989.00" y1="18" x2="989.00" y2="182" opacity="0.45" />
+    <line x1="1176.00" y1="18" x2="1176.00" y2="182" opacity="0.45" />
+  </g>
+  <g fill="#57606a" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">
+    <text x="42" y="186.00" text-anchor="end">0</text>
+    <text x="42" y="104.00" text-anchor="end">2</text>
+    <text x="42" y="22.00" text-anchor="end">4</text>
+    <text x="54.00" y="208" text-anchor="middle">Aug 27</text>
+    <text x="241.00" y="208" text-anchor="middle">Sep 01</text>
+    <text x="428.00" y="208" text-anchor="middle">Sep 06</text>
+    <text x="615.00" y="208" text-anchor="middle">Sep 11</text>
+    <text x="802.00" y="208" text-anchor="middle">Sep 16</text>
+    <text x="989.00" y="208" text-anchor="middle">Sep 21</text>
+    <text x="1176.00" y="208" text-anchor="middle">Sep 26</text>
+  </g>
+  <polygon points="54.00,182.00 54.00,182.00 91.40,141.00 128.80,18.00 166.20,100.00 203.60,18.00 241.00,182.00 278.40,182.00 315.80,182.00 353.20,182.00 390.60,182.00 428.00,182.00 465.40,182.00 502.80,182.00 540.20,182.00 577.60,182.00 615.00,182.00 652.40,182.00 689.80,182.00 727.20,182.00 764.60,182.00 802.00,182.00 839.40,182.00 876.80,182.00 914.20,182.00 951.60,182.00 989.00,182.00 1026.40,182.00 1063.80,182.00 1101.20,182.00 1138.60,182.00 1176.00,182.00 1176.00,182.00" fill="#d0d7de" opacity="0.28" />
+  <polyline points="54.00,182.00 91.40,141.00 128.80,18.00 166.20,100.00 203.60,18.00 241.00,182.00 278.40,182.00 315.80,182.00 353.20,182.00 390.60,182.00 428.00,182.00 465.40,182.00 502.80,182.00 540.20,182.00 577.60,182.00 615.00,182.00 652.40,182.00 689.80,182.00 727.20,182.00 764.60,182.00 802.00,182.00 839.40,182.00 876.80,182.00 914.20,182.00 951.60,182.00 989.00,182.00 1026.40,182.00 1063.80,182.00 1101.20,182.00 1138.60,182.00 1176.00,182.00" fill="none" stroke="#1f2328" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <g fill="#000000">
+    <circle cx="91.40" cy="141.00" r="3" />
+    <circle cx="128.80" cy="18.00" r="4" />
+    <circle cx="166.20" cy="100.00" r="3" />
+    <circle cx="203.60" cy="18.00" r="4" />
+  </g>
+</svg>

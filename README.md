@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://t.me/arsenrinatovich">
-    <img height="24" src="https://img.shields.io/badge/Telegram-%40arsenrinatovich-000000?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram @arsenrinatovich" />
+    <img height="24" src="https://img.shields.io/badge/Telegram-%40arsenrinatuly-000000?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram @arsenrinatuly" />
   </a>
 </p>
 
